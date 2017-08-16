@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class TextMiningApplication {
 	@RequestMapping("/")
 	public String index(){
-		return "Hello Spring Boot!";
+		return "Hello  Spring Boot!";
 	}
 
 
